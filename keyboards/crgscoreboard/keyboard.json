@@ -1,7 +1,7 @@
 {
     "manufacturer": "DefenestratorNZ",
     "keyboard_name": "crgscoreboard",
-    "maintainer": "DefenestratorNZ",
+    "maintainer": "Colin Murray",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
@@ -63,7 +63,7 @@
             ]
         }
     },
-        "macros": {
+    "macros": {
         "0": [
             {
                 "action": 2,
@@ -101,7 +101,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P1"
             },
             {
                 "action": 3,
@@ -123,7 +123,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P2"
             },
             {
                 "action": 3,
@@ -145,7 +145,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P3"
             },
             {
                 "action": 3,
@@ -167,7 +167,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P4"
             },
             {
                 "action": 3,
@@ -189,7 +189,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P5"
             },
             {
                 "action": 3,
@@ -211,7 +211,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P6"
             },
             {
                 "action": 3,
@@ -233,7 +233,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P7"
             },
             {
                 "action": 3,
@@ -255,7 +255,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P8"
             },
             {
                 "action": 3,
@@ -277,7 +277,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P9"
             },
             {
                 "action": 3,
@@ -295,7 +295,7 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
@@ -317,11 +317,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P1"
             },
             {
                 "action": 3,
@@ -339,11 +339,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P2"
             },
             {
                 "action": 3,
@@ -361,11 +361,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P3"
             },
             {
                 "action": 3,
@@ -383,11 +383,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P4"
             },
             {
                 "action": 3,
@@ -405,11 +405,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P5"
             },
             {
                 "action": 3,
@@ -427,11 +427,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P6"
             },
             {
                 "action": 3,
@@ -449,11 +449,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P7"
             },
             {
                 "action": 3,
@@ -471,11 +471,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P8"
             },
             {
                 "action": 3,
@@ -493,11 +493,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P9"
             },
             {
                 "action": 4,
-                "argument": "KC_P0"
+                "argument": "KC_P9"
             },
             {
                 "action": 3,
@@ -511,11 +511,11 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P1"
+                "argument": "KC_P2"
             },
             {
                 "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P0"
             },
             {
                 "action": 4,
@@ -533,15 +533,15 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P1"
-            },
-            {
-                "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P2"
             },
             {
                 "action": 4,
                 "argument": "KC_P0"
+            },
+            {
+                "action": 4,
+                "argument": "KC_P1"
             },
             {
                 "action": 3,
@@ -555,15 +555,15 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P1"
-            },
-            {
-                "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P2"
             },
             {
                 "action": 4,
                 "argument": "KC_P0"
+            },
+            {
+                "action": 4,
+                "argument": "KC_P2"
             },
             {
                 "action": 3,
@@ -577,21 +577,21 @@
             },
             {
                 "action": 4,
-                "argument": "KC_P1"
-            },
-            {
-                "action": 4,
-                "argument": "KC_P8"
+                "argument": "KC_P2"
             },
             {
                 "action": 4,
                 "argument": "KC_P0"
             },
             {
+                "action": 4,
+                "argument": "KC_P3"
+            },
+            {
                 "action": 3,
                 "argument": "KC_LALT"
             }
         ]
-    }
+}
 
 }
